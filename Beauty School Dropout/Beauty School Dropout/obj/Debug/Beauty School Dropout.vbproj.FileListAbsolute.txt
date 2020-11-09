@@ -1,0 +1,11 @@
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\bin\Debug\Beauty School Dropout.exe.config
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\bin\Debug\Beauty School Dropout.exe
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\bin\Debug\Beauty School Dropout.pdb
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\bin\Debug\Beauty School Dropout.xml
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\obj\Debug\Beauty School Dropout.vbprojResolveAssemblyReference.cache
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\obj\Debug\Beauty_School_Dropout.Form1.resources
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\obj\Debug\Beauty_School_Dropout.Resources.resources
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\obj\Debug\Beauty School Dropout.vbproj.GenerateResource.Cache
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\obj\Debug\Beauty School Dropout.exe
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\obj\Debug\Beauty School Dropout.xml
+c:\users\hammad babar\documents\visual studio 2015\Projects\Beauty School Dropout\Beauty School Dropout\obj\Debug\Beauty School Dropout.pdb

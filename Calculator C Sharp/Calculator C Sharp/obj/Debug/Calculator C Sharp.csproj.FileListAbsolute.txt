@@ -1,0 +1,18 @@
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\bin\Debug\Calculator C Sharp.exe.config
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\bin\Debug\Calculator C Sharp.exe
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\bin\Debug\Calculator C Sharp.pdb
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator C Sharp.csprojResolveAssemblyReference.cache
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator_C_Sharp.Form1.resources
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator_C_Sharp.Properties.Resources.resources
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator C Sharp.csproj.GenerateResource.Cache
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator C Sharp.exe
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator C Sharp.pdb
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\bin\Debug\Calculator C Sharp.exe.config
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator C Sharp.exe
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator C Sharp.pdb
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\bin\Debug\Calculator C Sharp.exe
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\bin\Debug\Calculator C Sharp.pdb
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator_C_Sharp.Form1.resources
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator_C_Sharp.Properties.Resources.resources
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Calculator C Sharp\Calculator C Sharp\obj\Debug\Calculator C Sharp.csproj.GenerateResource.Cache

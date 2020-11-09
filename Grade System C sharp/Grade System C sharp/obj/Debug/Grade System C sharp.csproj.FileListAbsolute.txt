@@ -1,0 +1,28 @@
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.exe.config
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.csprojResolveAssemblyReference.cache
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade_System_C_sharp.Form1.resources
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade_System_C_sharp.Properties.Resources.resources
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.csproj.GenerateResource.Cache
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.exe
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.pdb
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.exe
+c:\users\hammad babar.nadeem-pc-pc\documents\visual studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.pdb
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.exe.config
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.exe
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.pdb
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.csprojResolveAssemblyReference.cache
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade_System_C_sharp.Form1.resources
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade_System_C_sharp.Properties.Resources.resources
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.csproj.GenerateResource.Cache
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.exe
+C:\Users\Hammad Babar\Documents\Visual Studio 2015\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.pdb
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.exe.config
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.exe
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\bin\Debug\Grade System C sharp.pdb
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.csprojResolveAssemblyReference.cache
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade_System_C_sharp.Form1.resources
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade_System_C_sharp.Properties.Resources.resources
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.csproj.GenerateResource.Cache
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.csproj.CoreCompileInputs.cache
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.exe
+C:\Users\hamma\OneDrive\Documents\Projects\Grade System C sharp\Grade System C sharp\obj\Debug\Grade System C sharp.pdb
